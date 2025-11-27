@@ -2,7 +2,7 @@
 
 - Updated >>
   - Added One more background
-  - Adjusted the hyprlanc.conf blur to match the vibe
+  - Adjusted the hyprland.conf blur to match the vibe
 
 - Install
 ```bash
